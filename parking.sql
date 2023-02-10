@@ -5,19 +5,19 @@ create table vehiculo(
     placaVehiculo varchar(6) 
 );
 create table tarifa(
-	carroTarifa int(10),
-	motoTarifa int(10),
+    carroTarifa int(10),
+    motoTarifa int(10),
     tipoVehiculo varchar(5),
     foreign key (tipoVehiculo) references vehiculo(tipoVehiculo)
 );
 create table parking(
-	idParking int(10) auto_increment primary key,
+    idParking int(10) auto_increment primary key,
     estadoParking bool,
     tipoVehiculo varchar(5),
     foreign key (tipoVehiculo) references vehiculo(tipoVehiculo)
 );
 create table registro(
-	idRegistro int(10) auto_increment primary key,
+    idRegistro int(10) auto_increment primary key,
     ingresoRegistro time,
     salidaRegistro time,
     idParking int(10),

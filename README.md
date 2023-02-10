@@ -16,5 +16,5 @@ El administrador maneja los registros del sistema.
 
 
 
-https://user-images.githubusercontent.com/114973749/217979522-a0c2ee60-5b01-43ff-ae75-87388d12b9bb.mp4
+
 

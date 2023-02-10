@@ -13,3 +13,8 @@ El sistema cuenta con un login donde el administrador se comunica con el app.
 ![image](https://user-images.githubusercontent.com/114973749/217978578-90ac61c5-0853-4386-9dac-b6e4d6a02e6d.png)
 
 El administrador maneja los registros del sistema.
+
+
+
+https://user-images.githubusercontent.com/114973749/217979522-a0c2ee60-5b01-43ff-ae75-87388d12b9bb.mp4
+

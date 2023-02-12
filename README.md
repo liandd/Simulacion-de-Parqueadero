@@ -20,5 +20,5 @@ El administrador maneja los registros del sistema.
 
 
 
-https://user-images.githubusercontent.com/114973749/218291605-ed4e7e19-80c5-444c-b8f2-23729185ddd4.mp4
+
 
